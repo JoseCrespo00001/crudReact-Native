@@ -26,34 +26,41 @@ Este proyecto es una aplicación móvil desarrollada en React Native para gestio
    git clone https://github.com/tu-usuario/tu-proyecto.git
 
 2. Instala las dependencias:
-```bash
-  Copy code
-  cd tu-proyecto
-  npm install
+
+   ```bash
+     Copy code
+     cd tu-proyecto
+     npm install
+   
 3. Inicia el servidor de desarrollo:
-```bash
-  Copy code
-  npm start
+
+   ```bash
+     Copy code
+     npm start
+   
   Abre la aplicación en tu emulador o dispositivo móvil.
+  
 ## Estructura de Carpetas
--src: Contiene el código fuente de la aplicación.
--components: Componentes reutilizables.
--screens: Pantallas de la aplicación.
--styles: Estilos globales.
--utils: Utilidades y funciones auxiliares.
--db.json: Base de datos JSON simulada para clientes.
 
+   -src: Contiene el código fuente de la aplicación.
+   -components: Componentes reutilizables.
+   -screens: Pantallas de la aplicación.
+   -styles: Estilos globales.
+   -utils: Utilidades y funciones auxiliares.
+   -db.json: Base de datos JSON simulada para clientes.
 
-##Contribución
-Si deseas contribuir a este proyecto, sigue estos pasos:
+## Contribución
 
-Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Haz tus cambios y commitea (git commit -am 'Agrega nueva funcionalidad').
-Sube tus cambios al repositorio (git push origin feature/nueva-funcionalidad).
-Crea un nuevo Pull Request.
+   Si deseas contribuir a este proyecto, sigue estos pasos:
+   
+   - Haz un fork del repositorio.
+   - Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+   - Haz tus cambios y commitea (git commit -am 'Agrega nueva funcionalidad').
+   - Sube tus cambios al repositorio (git push origin feature/nueva-funcionalidad).
+   - Crea un nuevo Pull Request.
 
-##Licencia
+## Licencia
+
 Este proyecto está bajo la Licencia MIT. Puedes ver los detalles en el archivo LICENSE.
 
 ¡Gracias por tu interés en este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
