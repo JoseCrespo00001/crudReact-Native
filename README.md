@@ -1,14 +1,22 @@
-# Mi Proyecto de Gestión de Clientes
+
+
+# Gestión de Clientes
+
+
 
 Este proyecto es una aplicación móvil desarrollada en React Native para gestionar clientes. Permite agregar nuevos clientes, ver detalles de clientes existentes, editar información y eliminar clientes.
 
+
+
 ## Funcionalidades
 
-- Ver lista de clientes.
-- Agregar nuevo cliente.
-- Ver detalles de un cliente.
-- Editar información de un cliente.
-- Eliminar un cliente.
+   - Ver lista de clientes.
+   - Agregar nuevo cliente.
+   - Ver detalles de un cliente.
+   - Editar información de un cliente.
+   - Eliminar un cliente.
+
+
 
 ## Tecnologías Utilizadas
 
@@ -17,6 +25,9 @@ Este proyecto es una aplicación móvil desarrollada en React Native para gestio
 - React Navigation para la navegación entre pantallas
 - React Native Paper para componentes UI
 - JSON Server para simular una API REST localmente
+
+## Imagenes
+
 
 ## Instalación
 
@@ -28,26 +39,24 @@ Este proyecto es una aplicación móvil desarrollada en React Native para gestio
 2. Instala las dependencias:
 
    ```bash
-     Copy code
      cd tu-proyecto
      npm install
    
 3. Inicia el servidor de desarrollo:
 
    ```bash
-     Copy code
      npm start
    
   Abre la aplicación en tu emulador o dispositivo móvil.
   
 ## Estructura de Carpetas
 
-   -src: Contiene el código fuente de la aplicación.
-   -components: Componentes reutilizables.
-   -screens: Pantallas de la aplicación.
-   -styles: Estilos globales.
-   -utils: Utilidades y funciones auxiliares.
-   -db.json: Base de datos JSON simulada para clientes.
+   - src: Contiene el código fuente de la aplicación.
+   - components: Componentes reutilizables.
+   - screens: Pantallas de la aplicación.
+   - styles: Estilos globales.
+   - utils: Utilidades y funciones auxiliares.
+   - db.json: Base de datos JSON simulada para clientes.
 
 ## Contribución
 
