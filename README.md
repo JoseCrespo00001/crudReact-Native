@@ -1,6 +1,7 @@
 
 
 # Gestión de Clientes
+--------------------
 
 
 
@@ -9,6 +10,7 @@ Este proyecto es una aplicación móvil desarrollada en React Native para gestio
 
 
 ## Funcionalidades
+--------------------
 
    - Ver lista de clientes.
    - Agregar nuevo cliente.
@@ -19,6 +21,7 @@ Este proyecto es una aplicación móvil desarrollada en React Native para gestio
 
 
 ## Tecnologías Utilizadas
+--------------------
 
 - React Native
 - Axios para hacer peticiones HTTP a la API
@@ -27,9 +30,15 @@ Este proyecto es una aplicación móvil desarrollada en React Native para gestio
 - JSON Server para simular una API REST localmente
 
 ## Imagenes
+--------------------
+<img src="https://github.com/JoseCrespo00001/crudReact-Native/assets/123144789/c2b02694-5675-4604-af9b-b6f68e43e9fd" width="30%" height="30%">
+<img src="https://github.com/JoseCrespo00001/crudReact-Native/assets/123144789/9ac686b0-6883-44cb-930d-4cef56f63c98" width="30%" height="30%">
+<img src="https://github.com/JoseCrespo00001/crudReact-Native/assets/123144789/ea23fe85-952e-4b40-99b7-7c3239708323" width="30%" height="30%">
+
 
 
 ## Instalación
+--------------------
 
 1. Clona el repositorio:
 
@@ -50,6 +59,7 @@ Este proyecto es una aplicación móvil desarrollada en React Native para gestio
   Abre la aplicación en tu emulador o dispositivo móvil.
   
 ## Estructura de Carpetas
+--------------------
 
    - src: Contiene el código fuente de la aplicación.
    - components: Componentes reutilizables.
@@ -59,6 +69,7 @@ Este proyecto es una aplicación móvil desarrollada en React Native para gestio
    - db.json: Base de datos JSON simulada para clientes.
 
 ## Contribución
+--------------------
 
    Si deseas contribuir a este proyecto, sigue estos pasos:
    
@@ -69,6 +80,7 @@ Este proyecto es una aplicación móvil desarrollada en React Native para gestio
    - Crea un nuevo Pull Request.
 
 ## Licencia
+--------------------
 
 Este proyecto está bajo la Licencia MIT. Puedes ver los detalles en el archivo LICENSE.
 
