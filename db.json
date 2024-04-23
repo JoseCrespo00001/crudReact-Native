@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Fran crespo",
+      "telefono": "3513720861",
+      "correo": "Josecrespo00001@gmail.com",
+      "empresa": "CONEXY SRA",
+      "id": "4ee5"
+    },
+    {
+      "nombre": "Jose crespo",
+      "telefono": "Dd",
+      "correo": "Dd",
+      "empresa": "Ddd",
+      "id": "0216"
+    }
+  ]
+}
